@@ -1,0 +1,19 @@
+{
+  "name": "rolepocket",
+  "displayName": "RolePocket",
+  "version": "0.1.1",
+  "description": "Build career context, assess saved RolePocket jobs and prepare truthful application materials. Claude compatibility preview.",
+  "author": {
+    "name": "RolePocket",
+    "url": "https://rolepocket.com"
+  },
+  "homepage": "https://rolepocket.com/support/",
+  "privacyPolicyUrl": "https://rolepocket.com/privacy/",
+  "icon": "./assets/icon.png",
+  "keywords": [
+    "job-search",
+    "career",
+    "applications"
+  ],
+  "repository": "https://github.com/jordy-silva/RolePocket-claude"
+}
